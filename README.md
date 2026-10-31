@@ -1,7 +1,7 @@
 ### Hi, I'm Ömer
 
-Project Manager & Database Developer based in Bursa, Türkiye.
-8+ years building **ERP/MES systems** — led 12 end-to-end go-lives across textile, machinery, and retail equipment manufacturing.
+Database Developer & Project Manager based in Bursa, Türkiye.
+10+ years in software, 5+ years building the **SQL Server databases behind ERP/MES systems** — led 12 end-to-end go-lives across textile, machinery, and retail equipment manufacturing.
 Currently shipping **Octo ERP** at Renium, with a side focus on **AI-assisted developer tooling**.
 
 #### 🔭 What I'm working on

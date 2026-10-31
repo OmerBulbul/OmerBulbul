@@ -7,7 +7,7 @@
 
 ## Özet
 
-8+ yıl deneyimli, **T-SQL geliştirme ve ERP/MES devreye alma** odaklı bir veritabanı / proje uzmanıyım. **12 üretim firmasında ERP/MES devreye alma süreçlerini uçtan uca yönettim** (tekstil, koltuk üretimi, yay üretimi, otopark makinaları, market raf imalatı). Hem yazılım tarafında (trigger, stored procedure, view, function, performans iyileştirme) hem de saha tarafında (ihtiyaç analizi, kullanıcı eğitimi, canlıya geçiş desteği) uçtan uca rol aldım. Çalıştığım iki şirkette kurumsal dokümantasyon altyapısını sıfırdan kurdum.
+10+ yıl yazılım ve 5+ yıl SQL Server deneyimli, **T-SQL geliştirme ve ERP/MES devreye alma** odaklı bir veritabanı / proje uzmanıyım. **12 üretim firmasında ERP/MES devreye alma süreçlerini uçtan uca yönettim** (tekstil, koltuk üretimi, yay üretimi, otopark makinaları, market raf imalatı). Hem yazılım tarafında (trigger, stored procedure, view, function, performans iyileştirme) hem de saha tarafında (ihtiyaç analizi, kullanıcı eğitimi, canlıya geçiş desteği) uçtan uca rol aldım. Çalıştığım iki şirkette kurumsal dokümantasyon altyapısını sıfırdan kurdum.
 
 Ar-Ge Merkezi bünyesinde TÜBİTAK TEYDEB ve KOSGEB destekli projelerde aktif rol aldım — *Tekstil Endüstrisinde Bobin Kazanlarının İlerlemeli Aç Gözlü Yaklaşım ile Optimum Planlanması Projesi* dahil.
 
@@ -25,7 +25,7 @@ Son dönemde AI destekli geliştirme süreçleri üzerine yoğunlaştım; Talep'
 - **ERP / MES:** SAP B1, ERP devreye alma, versiyon yönetimi, üretim/planlama/boyahane/muhasebe modül uyarlamaları
 - **Aşinalık (AI destekli geliştirme):** C# / .NET, ASP.NET Core, Blazor, TypeScript, HTML5/CSS, Tailwind CSS, Docusaurus
 - **AI / Developer Tooling:** Claude Code skill ve agent geliştirme, AI workflow orchestration, prompt engineering, MCP entegrasyonları, VS Code extension geliştirme
-- **Versiyon Kontrol & İşbirliği:** Git, GitHub (10+ yıl aktif kullanım, 22 public repo, açık kaynak katkıları), branch stratejisi, pull request ve code review akışı
+- **Versiyon Kontrol & İşbirliği:** Git, GitHub, branch stratejisi, pull request ve code review akışı
 - **Ekip Araçları:** Jira, Confluence, Bitbucket
 - **Süreç & Metodoloji:** İhtiyaç analizi, IEEE 12207 dokümantasyon, kurumsal dokümantasyon altyapısı (Notion, Docusaurus), kullanıcı eğitimi, sahada canlıya geçiş desteği, yalın üretim prensipleri
 - **Geçmiş Tecrübe:** Java/JSP/JSF, PrimeFaces
@@ -35,13 +35,12 @@ Son dönemde AI destekli geliştirme süreçleri üzerine yoğunlaştım; Talep'
 ## Açık Kaynak / Kişisel Projeler
 
 - **tsql-intellisense** — T-SQL geliştiriciler için VS Code extension'ı (TypeScript). T-SQL geliştirme sürecinde karşılaşılan ihtiyaçlardan yola çıkan, AI-assisted geliştirilmiş bir prototip. [github.com/OmerBulbul/tsql-intellisense](https://github.com/OmerBulbul/tsql-intellisense)
-- **SqlCodebase / TRLogBackup** — Üretim ortamı için T-SQL araç ve script koleksiyonları.
 
 ---
 
 ## İş Deneyimleri
 
-### Proje Yöneticisi — Renium Yazılım
+### Veritabanı Geliştirici / Proje Yöneticisi — Renium Yazılım
 *Ağustos 2024 – Devam ediyor · Bursa · Tam zamanlı*
 
 - **Devreye alınan müşteri projeleri:** Arımış, Beytuğ, Şanmak, Akdeniz, Venturi, Eksen Global — Octo ERP kurulum, uyarlama ve canlıya geçiş süreçlerinin uçtan uca yönetimi.

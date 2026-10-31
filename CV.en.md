@@ -7,7 +7,7 @@
 
 ## Summary
 
-Database / project specialist with 8+ years of experience focused on **T-SQL development and ERP/MES commissioning**. **Led end-to-end ERP/MES go-live processes for 12 manufacturing companies** across multiple sectors — textile (orders, planning, dyehouse, accounting integration), machinery/component manufacturing (vehicle seat production, spring manufacturing, parking machines), and retail equipment (supermarket shelving and display unit systems). Worked across both the engineering side (triggers, stored procedures, views, functions, performance tuning) and the field side (requirements analysis, user training, go-live support). Built corporate documentation infrastructure from scratch at both companies I worked for.
+Database / project specialist with 10+ years in software and 5+ years of SQL Server work, focused on **T-SQL development and ERP/MES commissioning**. **Led end-to-end ERP/MES go-live processes for 12 manufacturing companies** across multiple sectors — textile (orders, planning, dyehouse, accounting integration), machinery/component manufacturing (vehicle seat production, spring manufacturing, parking machines), and retail equipment (supermarket shelving and display unit systems). Worked across both the engineering side (triggers, stored procedures, views, functions, performance tuning) and the field side (requirements analysis, user training, go-live support). Built corporate documentation infrastructure from scratch at both companies I worked for.
 
 Active contributor in TÜBİTAK TEYDEB and KOSGEB R&D-funded projects under an R&D Center — including the *"Optimum Planning of Bobbin Boilers in the Textile Industry via Progressive Open-Mesh Approach"* project.
 
@@ -25,7 +25,7 @@ Recently focused on AI-assisted development workflows; designed an 18-piece Clau
 - **ERP / MES:** SAP B1, ERP commissioning, version management, production/planning/dyehouse/accounting module customization
 - **Familiarity (AI-assisted development):** C# / .NET, ASP.NET Core, Blazor, TypeScript, HTML5/CSS, Tailwind CSS, Docusaurus
 - **AI / Developer Tooling:** Claude Code skill and agent development, AI workflow orchestration, prompt engineering, MCP integrations, VS Code extension development
-- **Version Control & Collaboration:** Git, GitHub (10+ years active use, 22 public repos, open-source contributions), branching strategy, pull request and code review workflows
+- **Version Control & Collaboration:** Git, GitHub, branching strategy, pull request and code review workflows
 - **Team Tools:** Jira, Confluence, Bitbucket
 - **Process & Methodology:** Requirements analysis, IEEE 12207 documentation, corporate documentation infrastructure (Notion, Docusaurus), user training, on-site go-live support, lean manufacturing principles
 - **Past Experience:** Java/JSP/JSF, PrimeFaces
@@ -35,13 +35,12 @@ Recently focused on AI-assisted development workflows; designed an 18-piece Clau
 ## Open Source / Personal Projects
 
 - **tsql-intellisense** — VS Code extension providing T-SQL IntelliSense (TypeScript). An AI-assisted prototype born from real T-SQL development pain points. [github.com/OmerBulbul/tsql-intellisense](https://github.com/OmerBulbul/tsql-intellisense)
-- **SqlCodebase / TRLogBackup** — T-SQL utility and script collections for production environments.
 
 ---
 
 ## Experience
 
-### Project Manager — Renium Yazılım
+### Database Developer / Project Manager — Renium Yazılım
 *August 2024 – Present · Bursa · Full-time*
 
 - **Customer go-lives:** Arımış, Beytuğ, Şanmak, Akdeniz, Venturi, Eksen Global — end-to-end management of Octo ERP installation, customization, and go-live processes.
